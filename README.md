@@ -69,7 +69,7 @@ The simulator processes memory access trace files and evaluates cache performanc
 
 2. Run the simulator:
     ```bash
-    python simulator.py
+    python submitting.py
     ```
 
 3. Ensure the required trace files are in the same directory.
